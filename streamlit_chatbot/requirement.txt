@@ -1,1 +1,4 @@
  google-generativeai
+plotly-express
+streamlit
+pandas
