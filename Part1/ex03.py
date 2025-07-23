@@ -1,0 +1,10 @@
+string1 = 'MaRvin The Bot'
+string2 = string1.casefold()
+string3 = string1.upper()
+string4 = string1.title()
+string5 = string1.isspace()
+print(string1)
+print(string2)
+print(string3)
+print(string4)
+print(string5)
