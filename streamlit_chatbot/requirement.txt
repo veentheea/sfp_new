@@ -1,4 +1,4 @@
 google-generativeai
-plotly-express
+plotly
 streamlit
 pandas
